@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Stuff from IDF
+build/
+sdkconfig
+sdkconfig.old
+
